@@ -340,26 +340,6 @@ const Navbar = () => {
                         Shop
                       </Link>
                     </li>
-                    <li>
-                      <Link href="/offer" className="py-2">
-                        Offer
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/about" className="py-2">
-                        About Us
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/contact" className="py-2">
-                        Contact Us
-                      </Link>
-                    </li>
-                    {/* <li>
-                      <Link href="/faq" className="py-2">
-                        FAQ
-                      </Link>
-                    </li> */}
                   </ul>
                 </div>
               </div>

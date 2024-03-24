@@ -1,9 +1,7 @@
 import { useRouter } from "next/router";
 import React, { useEffect, useState } from "react";
 import BottomNav from "../Shared/BottomNav";
-import DashboardNavbar from "../Shared/DashboardNavbar";
 import CartDrawer from "../Shared/drawer/CartDrawer";
-import Footers from "../Shared/Footers";
 import Navbar from "../Shared/Navbar";
 import Head from "next/head";
 import Script from "next/script";
@@ -67,7 +65,7 @@ function Layout({ children }) {
                 www.arshikids.com
               </div>
             ) : (
-              <Footers></Footers>
+              <></>
             ))}
         </>
       }

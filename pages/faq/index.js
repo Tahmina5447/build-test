@@ -1,7 +1,6 @@
 
 import AppAds from "../../src/Components/Home/AppAds/AppAds";
 import faq from "../../public/assets/faq.svg";
-import Contact from "../../src/Components/Contact/Contact";
 import SecondaryImageCover from "../../src/Shared/SecondaryImageCover";
 import Image from "next/image";
 

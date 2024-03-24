@@ -29,22 +29,7 @@ const CatagoryDrawer = ({
       title: "Shop",
       path: "/shop",
     },
-    {
-      title: "Offer",
-      path: "/offer",
-    },
-    {
-      title: "About Us",
-      path: "/about",
-    },
-    {
-      title: "Contact Us",
-      path: "/contact",
-    },
-    // {
-    //   title: "FAQ",
-    //   path: "/faq",
-    // },
+  
   ];
 
   return (
